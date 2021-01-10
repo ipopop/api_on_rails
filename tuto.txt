@@ -1,0 +1,31 @@
+# https://github.com/madeindjs/api_on_rails/blob/master/rails6/fr/chapter01-api.adoc
+# ruby -v
+# gem update --system
+# brew install libtool libxslt libksba openssl
+# brewup
+# printf 'gem: --no-document' >> ~/.gemrc
+# gem install bundler
+# gem install foreman
+# rails -v
+# gem install rails -v 6.1.0
+# rbenv rehash
+# rails -v
+# mkdir ~/workspace
+# cd ~/workspace
+# rails new market_place_api --api
+# cd market_place_api
+# nano .gitignore
+# git init
+# echo "# api_on_rails" >> README.md
+# git add .
+# git commit -m "Initial commit"
+# git remote add origin git@github.com:ipopop/api_on_rails.git
+# git push -u origin main
+
+# https://github.com/madeindjs/api_on_rails/blob/master/rails6/fr/chapter02-api.adoc
+# git checkout -b chapter02
+# git commit -am "Removes comments from the routes file"
+# mkdir app/controllers/api
+# git add config/routes.rb
+# git commit -m "Set the routes constraints for the api"
+
