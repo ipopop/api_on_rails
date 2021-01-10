@@ -28,4 +28,5 @@
 # mkdir app/controllers/api
 # git add config/routes.rb
 # git commit -m "Set the routes constraints for the api"
-
+# mkdir app/controllers/api/v1
+# 
